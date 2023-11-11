@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-Social-Media-App-/static/css/main.f855e6bc.css",
+    "main.js": "/React-Social-Media-App-/static/js/main.8c15ba36.js",
+    "static/js/787.9de54ac0.chunk.js": "/React-Social-Media-App-/static/js/787.9de54ac0.chunk.js",
+    "static/media/logo.svg": "/React-Social-Media-App-/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/React-Social-Media-App-/index.html",
+    "main.f855e6bc.css.map": "/React-Social-Media-App-/static/css/main.f855e6bc.css.map",
+    "main.8c15ba36.js.map": "/React-Social-Media-App-/static/js/main.8c15ba36.js.map",
+    "787.9de54ac0.chunk.js.map": "/React-Social-Media-App-/static/js/787.9de54ac0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.8c15ba36.js"
+  ]
+}
